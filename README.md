@@ -107,7 +107,7 @@ Object data contains content according to the request
 
 ## 💻 FrontEnd
 
-Repo Frontend : https://github.com/therevolt/arva-online-shop
+Repo Frontend : https://github.com/heatclift77/arva-online-shop-1
 
 ## 💻 Live Demo
 
